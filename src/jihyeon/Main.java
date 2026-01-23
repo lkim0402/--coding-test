@@ -1,7 +1,7 @@
 package jihyeon;
 
 import jihyeon.util.Generator;
-import jihyeon.week1.Question1;
+import jihyeon.week1.Question2;
 
 import java.util.Arrays;
 
@@ -9,8 +9,8 @@ public class Main {
 
     public static void main(String[] args) {
         int[] array = Generator.generateRandomArray();
-        Question1 q1 = new Question1();
-        int[] solution = q1.solution(array);
+        Question2 q2 = new Question2();
+        int[] solution = q2.solution(array);
         System.out.println(Arrays.toString(solution));
     }
 }
