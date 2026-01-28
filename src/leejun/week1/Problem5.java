@@ -22,7 +22,7 @@ public class Problem5 {
 
     for (int i = 0; i < aRow; i++) { // arr1의 row
       for (int j = 0; j < bCol; j++) { // arr2의 col
-        for (int k = 0; k < aCol; k++) { // 순회하면서 곱셈
+        for (int k = 0; k < aCol; k++) { // 순회하면서 곱셈, bRow = aCol
           res[i][j] += arr1[i][k] * arr2[k][j];
         }
       }
