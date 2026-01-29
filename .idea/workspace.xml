@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59fe7071-977b-4f86-9682-59ce1309c66c" name="Changes" comment="feat(week1): Question6&#10;&#10;해설 확인">
-      <change afterPath="$PROJECT_DIR$/src/jihyeon/week1/Question7.java" afterDir="false" />
+    <list default="true" id="59fe7071-977b-4f86-9682-59ce1309c66c" name="Changes" comment="feat(week1): Question7&#10;&#10;해설 확인">
+      <change afterPath="$PROJECT_DIR$/src/jihyeon/week2/Question9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coco/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jihyeon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jihyeon.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jihyeon.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,7 +158,8 @@
       <workItem from="1769001900124" duration="3000" />
       <workItem from="1769149510288" duration="4146000" />
       <workItem from="1769526556562" duration="4634000" />
-      <workItem from="1769588663129" duration="4588000" />
+      <workItem from="1769588663129" duration="5489000" />
+      <workItem from="1769654187558" duration="3177000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />
@@ -214,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769530457065</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat(week1): Question7&#10;&#10;해설 확인">
+      <option name="closed" value="true" />
+      <created>1769594507616</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1769594507616</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +240,7 @@
     <MESSAGE value="feat(week1): Question5&#10;&#10;해설 확인" />
     <MESSAGE value="feat(week1): Question5&#10;&#10;주석 수정" />
     <MESSAGE value="feat(week1): Question6&#10;&#10;해설 확인" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(week1): Question6&#10;&#10;해설 확인" />
+    <MESSAGE value="feat(week1): Question7&#10;&#10;해설 확인" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(week1): Question7&#10;&#10;해설 확인" />
   </component>
 </project>
