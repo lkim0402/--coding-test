@@ -9,7 +9,7 @@ public class Problem11 {
     }
 
     public static int solution(String s) {
-        Stack<Character> stack = new Stack();
+        Stack<Character> stack = new Stack<>();
         for (Character c : s.toCharArray()) {
             if (!stack.isEmpty() && stack.peek() == c) {
                 stack.pop();
