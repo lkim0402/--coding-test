@@ -3,7 +3,7 @@ package jihyeon.week1;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Question3 {
+public class Problem3 {
 
     public int[] solution (int[] numbers) {
         Set<Integer> set = new HashSet<>();

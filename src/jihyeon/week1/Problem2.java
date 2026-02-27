@@ -3,7 +3,7 @@ package jihyeon.week1;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Question2 {
+public class Problem2 {
 
     public int[] solution(int[] arr) {
         return Arrays.stream(arr)

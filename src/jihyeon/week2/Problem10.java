@@ -3,7 +3,7 @@ package jihyeon.week2;
 import java.util.ArrayDeque;
 import java.util.HashMap;
 
-public class Question10 {
+public class Problem10 {
 
     public static int solution(String s) {
         HashMap<Character, Character> map = new HashMap<>();
