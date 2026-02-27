@@ -2,7 +2,7 @@ package jihyeon.week2;
 
 import java.util.Stack;
 
-public class Question9 {
+public class Problem9 {
     public static String solution(int decimal) {
         Stack<Integer> stack = new Stack<>();
         StringBuilder answer = new StringBuilder();

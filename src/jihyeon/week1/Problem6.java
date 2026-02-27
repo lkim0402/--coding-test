@@ -2,7 +2,7 @@ package jihyeon.week1;
 
 import java.util.*;
 
-public class Question6 {
+public class Problem6 {
     public int[] solution(int N, int[] stages) {
         // 스테이지별 도전자 수 구하기
         int[] challenger = new int[N + 2];

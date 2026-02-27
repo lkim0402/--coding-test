@@ -3,7 +3,7 @@ package jihyeon.week1;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class Question7 {
+public class Problem7 {
     private static final HashMap<Character, int[]> location = new HashMap<>();
 
     private static void initLocation() {

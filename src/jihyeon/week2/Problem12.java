@@ -2,7 +2,7 @@ package jihyeon.week2;
 
 import java.util.Stack;
 
-public class Question12 {
+public class Problem12 {
     public static int[] solution(int[] prices) {
         // 원본 배열의 길이
         int n = prices.length;

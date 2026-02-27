@@ -1,6 +1,6 @@
 package jihyeon.week1;
 
-public class Question5 {
+public class Problem5 {
 
     public int[][] solution(int[][] arr1, int[][] arr2) {
         // (M*K), (K*N) 처럼 열과 행이 같은 크기인 행렬만 서로 곱할 수 있다.
